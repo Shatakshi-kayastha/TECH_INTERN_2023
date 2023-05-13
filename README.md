@@ -4,7 +4,7 @@ This repository contains all the projects I did during virtual internship by TEC
 
 
 
-#Landing Page (Passport Seva Kendra)
+# Landing Page (Passport Seva Kendra)
 
 
 
